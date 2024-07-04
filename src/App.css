@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Pangolin&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Milk Kids";
+  src: url("./assets/milk_kids/Milk-Kids.ttf");
+}
+
+@font-face {
+  font-family: "Baby Fat Demo";
+  src: url("./assets/baby-fat-demo/BabyFatDEMO-DEMO.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.trump-dog {
+  color: #FFF;
+  text-shadow: 5.45px 5.45px 0px rgba(0, 0, 0, 0.90);
+  -webkit-text-stroke-width: 0.8625472784042358;
+  -webkit-text-stroke-color: #000;
+}
+
+.amarican-flag-bg {
+  background-image: url("./assets/img/Bella.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg_img {
+  background-image: url("./assets/img/Bella-bg-img.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.trump_hero_dog {
+  color: #FFF;
+  text-shadow: 5.45px 5.45px 0px rgba(0, 0, 0, 0.90);
+  -webkit-text-stroke-width: 0.8625472784042358;
+  -webkit-text-stroke-color: #000;
+}
+
+.who-is-dog-bg-img {
+  background-image: url("./assets/img/who-is-dog-bg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.tokenomics-bg {
+  background-image: url("./assets/img/small-yellow-bg.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 640px) {
+  .tokenomics-bg {
+    background-image: url("./assets/img/yellow-bg.png");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  .supply-bg {
+    background-size: cover;
+
+  }
+}
+
+.supply-bg {
+  background-image: url("./assets/img/supply-bg.png");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.tokenomics_text {
+  color: #FFF;
+  text-align: center;
+  text-shadow: 10px 10px 0px #000;
+  -webkit-text-stroke-width: 3;
+  -webkit-text-stroke-color: #000;
+}
+
+.trump_logo_dog {
+  -webkit-text-stroke: 1.06px #000000;
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.navbaar-bg {
+  background-image: url("/src/assets/img/navbar-bg.png");
+}
+
+.sidebar-open {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.footer-bg {
+  background-image: url("/src/assets/img/footer.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
