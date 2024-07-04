@@ -17,11 +17,10 @@ const Trump = () => {
         <div className="flex flex-col pt-12 sm:pt-20 lg:pt-[181px] lg:pb-16 gap-6 md:gap-10 max-lg:items-center">
           <div className="flex flex-col gap-4 md:gap-8 max-w-[684px] w-full">
             <h2 className="font-milkKids trump_hero_dog text-[36px] sm:text-[40px] md:text-[60px] xl:text-[86px] max-lg:text-center text-white leading-[86%] uppercase font-normal">
-              Trump family dog!
+              Trump Dog!
             </h2>
             <p className="font-babyFat leading-[240%] font-normal text-[12px] sm:text-[14px] md:text-[16px] max-lg:text-center tracking-[1px] text-white">
-              Welcoming America's future Vice President while rewarding holders
-              in TRUMP. Because every president needs their VP.
+             Welcome to the Trump Dog family! We are here to do our mission: Make America great again on Ton summer!
             </p>
           </div>
           <div className="flex max-sm:flex-col gap-4 max-sm:items-center sm:gap-8 max-lg:justify-center">
@@ -45,7 +44,7 @@ const Trump = () => {
                 ref={inputRef}
                 className=" font-outfit font-bold text-[14px] tracking-[0.28px] bg-transparent w-full border-none outline-none uppercase text-[#504D4E]"
                 type="text"
-                value="EQD4XTXWJewuNtnhKGTkZaP0wsLvQyNgkVXcPLW5zPTQdykb"
+                value="Soon!!!!"
                 readOnly
               />
               <button onClick={copyToClipboard}>
