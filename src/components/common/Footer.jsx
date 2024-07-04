@@ -21,9 +21,7 @@ const Footer = () => {
             </div>
           </div>
           <p className="text-[#D7D2D2] mt-5 max-w-[560px] mx-auto font-babyFat text-center text-sm font-normal leading-[230%]">
-            Recently, a lot of Ton memecoins have been playing in the
-            crypto backyard. These memes need a ruler; they need a BELLA is here
-            for that.
+           Recently, a lot of meme coins have been successful listed on gas pump and go to the moon. Let's make American great again together on Ton summer! Your next steps?
           </p>
           {/* <div className="flex flex-wrap justify-center gap-8 mt-8">
             {footerLogo.map((item, index) => (
