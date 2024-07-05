@@ -29,13 +29,13 @@ const Trump = () => {
               className="w-[156px] h-[55px] rounded-[8px] border-2 border-white bg-[#B80404] shadow-[1px_1px_0px_0px_#FFF] font-milkKids text-white font-normal text-[22px] uppercase hover:shadow-[1px_1px_10px_3px_#fff] transition duration-300 ease-in-out"
             >
               
-              <a target="blank" rel="noopener" href="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NzI1Nzc4MTk3OCwidG9rZW5fYWRkcmVzcyI6IkVRQW5mT0h5U29pY212MmhYMEN4Wm5maFZsSllYYnNLY0dGTVE1SEl1Qjd3NGUzcCJ9">BUY NOW</a>
+              <a target="blank" rel="noopener" href="https://dedust.io/swap/TON/EQBZcdhFqzqelgx-CSbVg6U3GWgi02UTG6W7a0rRPMhEd0jM">BUY NOW</a>
             </button>
             <button
               type="submit"
               className="w-[188px] h-[55px] rounded-[8px] border-2 border-white bg-[#C6B9FF] shadow-[1px_1px_0px_0px_#FFF] font-milkKids text-[#0F0E0E] font-normal text-[22px] uppercase hover:shadow-[1px_1px_10px_3px_#fff] transition duration-300 ease-in-out"
             >
-              <a target="blank" rel="noopener" href="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NzI1Nzc4MTk3OCwidG9rZW5fYWRkcmVzcyI6IkVRQW5mT0h5U29pY212MmhYMEN4Wm5maFZsSllYYnNLY0dGTVE1SEl1Qjd3NGUzcCJ9">Chart</a>
+              <a target="blank" rel="noopener" href="https://www.geckoterminal.com/ton/pools/EQC3EoHOhHJWQ5xlz1JuJxqPCmcjBRyuFE50pCF3PldlCmHt">Chart</a>
             </button>
           </div>
           <div className="max-w-[519px] max-lg:justify-center w-full py-[10px] px-[7px] border-[1.59px] border-[#E9E9E9] rounded-[12px] bg-[#284977]">
@@ -44,7 +44,7 @@ const Trump = () => {
                 ref={inputRef}
                 className=" font-outfit font-bold text-[14px] tracking-[0.28px] bg-transparent w-full border-none outline-none uppercase text-[#504D4E]"
                 type="text"
-                value="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NzI1Nzc4MTk3OCwidG9rZW5fYWRkcmVzcyI6IkVRQW5mT0h5U29pY212MmhYMEN4Wm5maFZsSllYYnNLY0dGTVE1SEl1Qjd3NGUzcCJ9"
+                value="EQBZcdhFqzqelgx-CSbVg6U3GWgi02UTG6W7a0rRPMhEd0jM"
                 readOnly
               />
               <button onClick={copyToClipboard}>
