@@ -60,7 +60,7 @@ const Navbar = () => {
               type="submit"
               className="w-[156px] max-md:hidden h-[55px] rounded-[8px] border-2 border-white bg-[#B80404] shadow-[1px_1px_0px_0px_#FFF] font-milkKids text-white font-normal text-[22px] uppercase hover:shadow-[1px_1px_10px_3px_#FFF]  transition duration-300 ease-in-out"
             >
-              <a target="blank" rel="noopener" href="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NzA2MTU2MzIwMiwidG9rZW5fYWRkcmVzcyI6IkVRQUVrc1N4S3JqdzlxYXYxdGdFTTVBS1lrai04WGdtaVBjekVWeU5VRFlkYUZORSJ9">BUY NOW</a>
+              <a target="blank" rel="noopener" href="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NzI1Nzc4MTk3OCwidG9rZW5fYWRkcmVzcyI6IkVRQW5mT0h5U29pY212MmhYMEN4Wm5maFZsSllYYnNLY0dGTVE1SEl1Qjd3NGUzcCJ9">BUY NOW</a>
             </button>
             <button
               className="lg:hidden text-white"
