@@ -29,13 +29,13 @@ const Trump = () => {
               className="w-[156px] h-[55px] rounded-[8px] border-2 border-white bg-[#B80404] shadow-[1px_1px_0px_0px_#FFF] font-milkKids text-white font-normal text-[22px] uppercase hover:shadow-[1px_1px_10px_3px_#fff] transition duration-300 ease-in-out"
             >
               
-              <a target="blank" rel="noopener" href="https://dedust.io/swap/TON/EQD4XTXWJewuNtnhKGTkZaP0wsLvQyNgkVXcPLW5zPTQdykb">BUY NOW</a>
+              <a target="blank" rel="noopener" href="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NzA2MTU2MzIwMiwidG9rZW5fYWRkcmVzcyI6IkVRQUVrc1N4S3JqdzlxYXYxdGdFTTVBS1lrai04WGdtaVBjekVWeU5VRFlkYUZORSJ9">BUY NOW</a>
             </button>
             <button
               type="submit"
               className="w-[188px] h-[55px] rounded-[8px] border-2 border-white bg-[#C6B9FF] shadow-[1px_1px_0px_0px_#FFF] font-milkKids text-[#0F0E0E] font-normal text-[22px] uppercase hover:shadow-[1px_1px_10px_3px_#fff] transition duration-300 ease-in-out"
             >
-              <a target="blank" rel="noopener" href="https://www.geckoterminal.com/ton/pools/EQAiEvzjV4ZxycTIV3plilxETQcdvrnOR7mFDvAEe-njQnRt">Chart</a>
+              <a target="blank" rel="noopener" href="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NzA2MTU2MzIwMiwidG9rZW5fYWRkcmVzcyI6IkVRQUVrc1N4S3JqdzlxYXYxdGdFTTVBS1lrai04WGdtaVBjekVWeU5VRFlkYUZORSJ9">Chart</a>
             </button>
           </div>
           <div className="max-w-[519px] max-lg:justify-center w-full py-[10px] px-[7px] border-[1.59px] border-[#E9E9E9] rounded-[12px] bg-[#284977]">
@@ -44,7 +44,7 @@ const Trump = () => {
                 ref={inputRef}
                 className=" font-outfit font-bold text-[14px] tracking-[0.28px] bg-transparent w-full border-none outline-none uppercase text-[#504D4E]"
                 type="text"
-                value="Soon!!!!"
+                value="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NzA2MTU2MzIwMiwidG9rZW5fYWRkcmVzcyI6IkVRQUVrc1N4S3JqdzlxYXYxdGdFTTVBS1lrai04WGdtaVBjekVWeU5VRFlkYUZORSJ9"
                 readOnly
               />
               <button onClick={copyToClipboard}>
