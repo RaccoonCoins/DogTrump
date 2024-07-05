@@ -44,7 +44,7 @@ const Navbar = () => {
               className="shadow-[4.342px_4.342px_0px_0px_#000] max-md:hidden flex items-center justify-center bg-[#C6B9FF] rounded-[12px] border-[1.689px] border-black h-[54px] w-[56px] hover:shadow-[1px_1px_10px_3px_#000] transition-all duration-300 ease-in-out"
             >
               <div className="w-[45px] flex items-center justify-center h-[47px] border border-black rounded-[12px]">
-              <a target="blank" rel="noopener" href="https://t.me/nom_chat"><img src={telegram} alt="footer logo"/></a> 
+              <a target="blank" rel="noopener" href="https://t.me/trumpdogonton"><img src={telegram} alt="footer logo"/></a> 
               </div>
             </a>
             <a
@@ -53,14 +53,14 @@ const Navbar = () => {
               className="shadow-[4.342px_4.342px_0px_0px_#000] max-md:hidden flex items-center justify-center bg-[#F9DF94] rounded-[12px] border-[1.689px] border-black h-[54px] w-[56px] hover:shadow-[1px_1px_10px_3px_#000] transition-all duration-300 ease-in-out"
             >
               <div className="w-[45px] flex items-center justify-center h-[47px] border border-black rounded-[12px]">
-              <a target="blank" rel="noopener" href="https://t.me/nom_chat"><img src={twitter} alt="footer logo" /> </a>
+              <a target="blank" rel="noopener" href="https://x.com/TrumpDogonTon"><img src={twitter} alt="footer logo" /> </a>
               </div>
             </a>
             <button
               type="submit"
               className="w-[156px] max-md:hidden h-[55px] rounded-[8px] border-2 border-white bg-[#B80404] shadow-[1px_1px_0px_0px_#FFF] font-milkKids text-white font-normal text-[22px] uppercase hover:shadow-[1px_1px_10px_3px_#FFF]  transition duration-300 ease-in-out"
             >
-              <a target="blank" rel="noopener" href="https://dedust.io/swap/TON/EQD4XTXWJewuNtnhKGTkZaP0wsLvQyNgkVXcPLW5zPTQdykb">BUY NOW</a>
+              <a target="blank" rel="noopener" href="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NzA2MTU2MzIwMiwidG9rZW5fYWRkcmVzcyI6IkVRQUVrc1N4S3JqdzlxYXYxdGdFTTVBS1lrai04WGdtaVBjekVWeU5VRFlkYUZORSJ9">BUY NOW</a>
             </button>
             <button
               className="lg:hidden text-white"
